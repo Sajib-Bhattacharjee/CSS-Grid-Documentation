@@ -1,5 +1,5 @@
 <p align="center">
- <img src="_images-css-grid/gird_logo-img.png" alt="CSS Grid Layout Module" title="CSS Grid Layout Module" width="600" height="240"/>
+ <img src="_images-css-grid/gird_logo-img.png" alt="CSS Grid Layout Module" title="CSS Grid Layout Module" width="600" height="260"/>
 </p>
 
 # `CSS Grid`
@@ -16,7 +16,7 @@ This is a comprehensive guide to the CSS Grid Layout Module. This complete guide
 
 ## Who is this for?
 
-This Course/Tutorial is ideal for:
+This Course is ideal for:
 
 - Any Web designer/developer interested in getting a deep understanding of CSS Grid Layout Module (CSS Grid)
 - CSS lovers want to acquire knowledge of next/latest CSS level (properties/features)
